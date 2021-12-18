@@ -1,4 +1,5 @@
-
+# VPC
+https://www.notion.so/VPC-3-c561be69fa064d38ae6191687dc8994b
 
 ## 1장
 
@@ -8,8 +9,9 @@ http://bit.ly/cnbl0102
 ## 2장
 
 Private Subnet 접속을 위해 계정 접속 허용 설정
+http://bit.ly/cnbl0202
 ```
-#!/bin/bash
+#!/bin/0202
 (
 echo "qwe123"
 echo "qwe123"
