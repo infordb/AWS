@@ -2,10 +2,12 @@
 
 ## 1장
 
+CloudFormation 템플릿   
+http://bit.ly/cnbl0102
 
 ## 2장
 
-
+Private Subnet 접속을 위해 계정 접속 허용 설정
 ```
 #!/bin/bash
 (
