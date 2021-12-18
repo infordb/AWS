@@ -8,10 +8,10 @@ http://bit.ly/cnbl0102
 
 ## 2장
 
-Private Subnet 접속을 위해 계정 접속 허용 설정
+Private Subnet 접속을 위해 계정 접속 허용 설정   
 http://bit.ly/cnbl0202
 ```
-#!/bin/0202
+#!/bin/bash
 (
 echo "qwe123"
 echo "qwe123"
