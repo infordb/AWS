@@ -35,6 +35,12 @@ http://bit.ly/cnbl0301
 ## 4장 인터넷 연결
 https://www.notion.so/Internet-Connectivity-5-e43c78a8e81347a3bc4d2cc218d9782a   
 
+### NAT
+http://bit.ly/cnbl0401
 
+
+## 5장 부하 분산
+### ELB 
+https://www.notion.so/ongja/ELB-Elastic-Load-Balancing-6f5de514ca074ea08477e0c2c635a4fc
 
 
