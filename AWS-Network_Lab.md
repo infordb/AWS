@@ -22,7 +22,13 @@ service sshd restart
 ```
 
 ## 3장   
-EndPoint   
-http://bit.ly/cnbl0301
+### 게이트웨이 엔드포인트와 인터페이스 엔드포인트   
+https://www.notion.so/ongja/VPC-d52f592d463e40628ab44555f240e060#5cd143e125b64bc9add4448030bc3225
+
+http://bit.ly/cnbl0301   
+
+### 엔드포인트 서비스
+https://www.notion.so/ongja/VPC-d52f592d463e40628ab44555f240e060#59318a438fb4483b9641c207a1be53ab   
+http://bit.ly/cnbl0301 
 
 
