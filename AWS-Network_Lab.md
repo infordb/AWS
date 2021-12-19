@@ -44,4 +44,7 @@ http://bit.ly/cnbl0401
 https://www.notion.so/ongja/ELB-Elastic-Load-Balancing-6f5de514ca074ea08477e0c2c635a4fc   
 http://bit.ly/cnbl0401
 
+### Route53   
+https://www.notion.so/Route53-4-b4f54119302c41ca9d2e861550b41d76   
+
 
