@@ -60,5 +60,23 @@ https://kitty-geno.tistory.com/25?category=929861
    
 ### install tomcat
 https://kitty-geno.tistory.com/26
+
+### app2container inventory
+
+```
+
+[root@ip-172-31-32-91 work]# app2container inventory
+{
+                "java-tomcat-38390f84": {
+                                "processId": 8983,
+                                "cmdline": "/usr/lib/jvm/java-1.8.0-openjdk/bin/java ... -Dcatalina.home=/usr/local/tomcat8.5 -Djava.io.tmpdir=/usr/local/tomcat8.5/temp org.apache.catalina.startup.Bootstrap start ",
+                                "applicationType": "java-tomcat",
+                                "webApp": ""
+                }
+}
+
+```
+
+
    
    
