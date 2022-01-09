@@ -77,6 +77,19 @@ https://kitty-geno.tistory.com/26
 
 ```
 
+### app2container analyze
+
+[root@ip-172-31-32-91 work]#  app2container analyze --application-id java-tomcat-38390f84                                                                                       
+✔ Created artifacts folder /root/work/java-tomcat-38390f84                                         alyze --a⠙ Analyzing application java-tomcat-38390f84
+✔ Generated analysis data in /root/work/java-tomcat-38390f84/analysis.json
+👍 Analysis successful for application java-tomcat-38390f84
+
+💡 Next Steps:
+1. View the application analysis file at /root/work/java-tomcat-38390f84/analysis.json.
+2. Edit the application analysis file as needed.
+3. Start the containerization process using this command: app2container containerize --application-id java-tomcat-38390f84
+
+
 
 ```
 [root@ip-172-31-32-91 java-tomcat-38390f84]# cat /root/work/java-tomcat-38390f84/analysis.json
